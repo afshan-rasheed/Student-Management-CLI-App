@@ -34,7 +34,7 @@ A simple and interactive command-line application to manage student records usin
 
 2. **Run the App**
 
-python student_management.py
+   python student_management.py
 
 ---
 
